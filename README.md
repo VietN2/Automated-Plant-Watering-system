@@ -5,4 +5,6 @@ This repository showcases an automated plant watering system that using an Ardui
 
 ![Plant watering system set up](images/IMG_2605.JPEG)
 
+![Moisture level graph](images/IMG_0014.PNG)
+
 ![Moisture level graph](images/IMG_0013.PNG)
